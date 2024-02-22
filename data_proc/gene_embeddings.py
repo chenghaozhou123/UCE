@@ -9,7 +9,7 @@ import numpy as np
 import pandas as pd
 
 
-EMBEDDING_DIR = Path('model_files/protein_embeddings')
+EMBEDDING_DIR = Path('/kaggle/working')
 MODEL_TO_SPECIES_TO_GENE_EMBEDDING_PATH = {
     'ESM2': {
         'human': EMBEDDING_DIR / 'Homo_sapiens.GRCh38.gene_symbol_to_embedding_ESM2.pt',
