@@ -1,1 +1,2 @@
 species,path
+arabidopsis,/kaggle/input/pretrain-embedding/Arabidopsis_thaliana.TAIR10.pep.all.gene_symbol_to_embedding_ESM2.pt
