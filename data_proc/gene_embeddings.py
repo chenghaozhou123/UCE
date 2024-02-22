@@ -20,6 +20,7 @@ MODEL_TO_SPECIES_TO_GENE_EMBEDDING_PATH = {
         "pig": EMBEDDING_DIR / 'Sus_scrofa.Sscrofa11.1.gene_symbol_to_embedding_ESM2.pt',
         "macaca_fascicularis": EMBEDDING_DIR / 'Macaca_fascicularis.Macaca_fascicularis_6.0.gene_symbol_to_embedding_ESM2.pt',
         "macaca_mulatta": EMBEDDING_DIR / 'Macaca_mulatta.Mmul_10.gene_symbol_to_embedding_ESM2.pt',
+        "arabidopsis": EMBEDDING_DIR / 'Arabidopsis_thaliana.TAIR10.pep.all.gene_symbol_to_embedding_ESM2.pt,
     }
 }
 
